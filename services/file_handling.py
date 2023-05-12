@@ -21,7 +21,7 @@ def prepare_book(path: str) -> None:
 
 
 BOOK_PATH = 'book/book.txt'
-PAGE_SIZE = 1050
+PAGE_SIZE = 700
 
 book: dict[int, str] = {}
 
